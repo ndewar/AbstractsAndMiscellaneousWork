@@ -1,2 +1,2 @@
 # ConferenceAbstracts
-Collection of abstracts I've submitted to conferences in no particular order.
+Collection of abstracts submitted to conferences in no particular order.
